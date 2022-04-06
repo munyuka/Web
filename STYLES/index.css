@@ -1,0 +1,26 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: #0800ff;
+    color:#ffffff;
+    width: 100%;
+}
+nav{
+    width: 72%;
+    background-color: red;
+    margin: 0px auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: white;
+    height: 70px;
+}
+ul{
+    
+    list-style: none;
+    display: flex;
+}
